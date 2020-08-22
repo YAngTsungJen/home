@@ -22,10 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# rich-house
-# rich_house
-# rich_house
-# rich_house
-# House
-# House
-# home
